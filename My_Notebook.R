@@ -1,0 +1,8 @@
+cars<-c(1, 4, 6, 5, 10)
+plot(cars, type ="o")
+title(main = "Cars Vs Index")
+x<-c(1,2,3,4,5)
+y<-c(3, 7, 8, 9, 12)
+plot(x,y, type ="o")
+title(main = "X Vs Y")
+plot(1:10,  main = "My Graph", xlab = "x axis", ylab = "y axis", col="red", pch=11, cex= 2)
