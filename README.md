@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ED19841002
-- 👀 I’m interested in computational chemistry
+- 👋 Hi, I’m Ektoras Delaportas  (@ED19841002)
+- 👀 I’m interested in computational chemistry, data science, python, machine learning and AI
 - 🌱 I’m currently learning data science from IBM Data Science professional certificate
 - 💞️ I’m looking to collaborate on computational chemistry, data science and python research & development
 - 📫 How to reach me email: ektoradellaportas@gmail.com
