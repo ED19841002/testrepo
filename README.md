@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ektoras Delaportas  (@ED19841002)
 - 👀 I’m interested in computational chemistry, data science, python, machine learning and AI
 - 🌱 I’m currently learning data science from IBM Data Science professional certificate
-- 💞️ I’m looking to collaborate on computational chemistry, data science and python research & development
+- 💞️ I’m looking to collaborate on computational chemistry, python and data science R&D
 - 📫 How to reach me email: ektoradellaportas@gmail.com
-- 😄 Pronouns: ...
+- 👨‍💻 This repository contains some of the tests and projects I've comleted for IBM Data Science professional certificate, as well as some personal projects
 - ⚡ Fun fact: ...
 
 <!---
