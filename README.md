@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science from IBM Data Science professional certificate
 - 💞️ I’m looking to collaborate on computational chemistry, python and data science R&D
 - 📫 How to reach me email: ektoradellaportas@gmail.com
-- 👨‍💻 This repository contains some of the tests and projects I've comleted for IBM Data Science professional certificate, as well as some personal projects
+- 👨‍💻 This repository contains some of the tests and projects I've completed for IBM Data Science professional certificate, as well as some personal projects
 - ⚡ Fun fact: ...
 
 <!---
